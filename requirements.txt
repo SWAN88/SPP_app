@@ -1,9 +1,2 @@
 streamlit==0.60.0
-
-
-
-
-django
-gunicorn
-django-heroku
-requests
+matplotlib==3.3.1
