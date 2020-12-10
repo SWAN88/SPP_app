@@ -1,4 +1,8 @@
 streamlit==0.60.0
+
+
+
+
 django
 gunicorn
 django-heroku
