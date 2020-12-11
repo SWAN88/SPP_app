@@ -18,7 +18,7 @@ from sklearn.model_selection import GridSearchCV, train_test_split
 2. Hit the prediction button 
 """
 
-path = "/Users/katsuyashiratori/Documents/Python/SPP/Input/"
+path = "./data/"
 
 @st.cache
 def load_data(nrows):
